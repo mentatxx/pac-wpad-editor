@@ -51,7 +51,7 @@
     "@angular/language-service": "^5.0.0",
     "@types/node": "^8.0.30",
     "cpy-cli": "^1.0.1",
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "http-server": "^0.10.0",
     "reflect-metadata": "^0.1.10",
     "ts-loader": "^2.3.7",
